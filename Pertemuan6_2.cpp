@@ -10,7 +10,8 @@ int main() {
     cout << "Masukkan elemen-elemen matriks " << m << "x" << n << ":\n";
     for (int i = 0; i < m; i++) {
         for (int j = 0; j < n; j++) {
-            cout << "Elemen [" << i << "][" << j << "]: ";
+            cout << "Elemen 4
+            [" << i << "][" << j << "]: ";
             cin >> A[i][j];
         }
     }
